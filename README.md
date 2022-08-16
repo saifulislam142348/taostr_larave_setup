@@ -1,5 +1,7 @@
 Inspired in whossun/laravel-toastr..
 
+contoller link toastr :use Brian2694\Toastr\Facades\Toastr;
+
 I cloned the repository brian2694/laravel-toastr to update to Laravel 5.5
 
 # laravel-toastr
